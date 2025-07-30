@@ -6,13 +6,15 @@ Below is all of my advice. Also, I tried to include enough detail so that if you
 
 > *Context in which to interpret my advice: I applied for physics programs to study theoretical quantum science. I applied to 10 US universities for the Fall of 2024 (note this is before the budget cuts), and was accepted to 4. I am a US citizen. I graduated from Arizona State University with a Bachelor’s in Physics and minor in Mathematics.*
 
-## Checklist (Semi-chronological):
+{% highlight js %}
+Checklist (Semi-chronological):
 1. Ask 3-4 professors to be your letter of recommendation writers.
 2. Make a list of grad schools you want to apply to, and check **fee waivers**.
 3. (Optional) Reach out to professors at your prospective schools.
 4. Write your Statement of Purpose (SOP)
 5. Write other application essays and gather other materials (transcript, etc.)
 6. (Optional) Apply to fellowships/scholarships.
+{% endhighlight %}
 
 ## 1. Letters of Rec
 You really want to give your recommenders at least a 4-6 week heads up, but the earlier the better. A given school will only require you to submit 3 letters of rec, but sometimes asking a 4th is a good security measure. If you have 4, separate their letters into whatever split you want so that you submit 3 letters to each school (submitting an extra won’t help you). At the bottom of this page is a template to ask someone to be your recommender. 
