@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So you want to apply to grad school?
+published: false
 ---
 Below is all of my advice. Also, I tried to include enough detail so that if you have no idea where to start in the process, this page will walk you through it.
 
